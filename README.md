@@ -19,10 +19,21 @@ W momencie ustawienia skrzyń na miejscach docelowych gracz przechodzi do kolejn
 ## Elementy wizualne aplikacji
 ### Okno główne aplikacji
 ![](images/OknoGlowne.jpg)
-
-
-
-
+Powyższa grafika przedstawia okno główne aplikacji. Możemy w nim wyodrębnić cztery elementu głowne. Jednym z nich jest napis informujący, iż znajdujemy się w menu gry Sokoban. Pozostałymi trzema elementami są przyciski, za pomocą których możemy wybrać interesującą nas w danej chwili akcję.
+Pierwszym przyciskiem od dołu jest „Wyjdź z gry”. Wciśniecie tego przycisku powoduje zamknięcie aplikacji. Warto zaznaczyć, iż ten sam skutek możemy osiągnąć klikając czerwoną ikonkę z „iksem” w prawym górnym rogu okna.
+Środkowy przycisk „Najlepsze wyniki” pozwala nam przejść do okna zawierającego trzy najlepsze wyniki.
+Przycisk na samej górze wywołuję akcję prowadzącą do rozpoczęcia rozgrywki. Po jego wciśnięciu aplikacja rozpoczyna dialog z użytkownikiem, mający na celu pobranie od niego nicku oraz wybór przez użytkownika poziomu trudności.
+Po wciśnięciu przycisku „Nowa gra” naszym oczom ukaże się okno następujące okno dialogowe:
+![](images/NickInput.jpg)
+![](images/DefaultNickInput.jpg)
+W tym momencie powinniśmy podać nick i kliknąć przycisk „OK” aby przejść dalej. W tym miejscu warto zaznaczyć, że kliknięcie „Cancel” lub czerwonej ikonki z „iksem” spowoduje powrót do głównego menu. Podanie nieprawidlowego nicku (tzn. chęć zatwierdzenia bez wprowadzenia żadnego znaku) spowoduje wyświetlenie następującego okna:
+![](images/ZlyNick.jpg)
+Po wciśnięciu „OK” nastąpi powrót do menu głównego.
+Załóżmy, że podanie nicku zakończyło się sukcesem. Kolejnym krokiem jest wybór poziomu trudności. Po zatwierdzeniu podanego nicku, naszym oczom ukaże się okno umożliwające wybór jednego z trzech przewidzianych poziomów trudności: Easy, Medium oraz Hard.
+![](images/PoziomTrudnosci.jpg)
+Po wciśnięciu strzałki po prawiej stronie od podświetlonego napisu „Medium” rozwinie się lista ze wszystkimi dostępnymi poziomami trudności. W przypadku kliknęcia opcji „Cancel” lub czerwonej ikonki z „iksem” nastąpi powrót do menu głównego.
+![](images/ListraPoziomowTrudnosci.jpg)
+Po wybraniu poziomu trudności oraz kliknięciu „OK” przechodzimy do okna rozgrywki.
 
 
 
