@@ -38,7 +38,7 @@ W momencie ustawienia skrzyń na miejscach docelowych gracz przechodzi do kolejn
 <a name="elementywizualneaplikacji"></a>
 ## Elementy wizualne aplikacji
 
-### Okno główne aplikacji
+#### Okno główne aplikacji
 
 ![](images/OknoGlowne.jpg)
 
@@ -87,7 +87,7 @@ Po wciśnięciu strzałki po prawiej stronie od podświetlonego napisu „Medium
 Po wybraniu poziomu trudności oraz kliknięciu „OK” przechodzimy do okna rozgrywki.
 <br />
 
-### Okno z najlepszymi wynikami
+#### Okno z najlepszymi wynikami
 
 ![](images/OknoResults.jpg)
 <br />
@@ -96,7 +96,7 @@ Jak widzimy okno z najlepszymi wynikami pokazuje nam trzy najlepsze wyniki uzysk
 W południowej części okna znajduje się przycisk „Powrót do Menu Głównego”, po wciśnięciu którego program przenosi nas spowrotem do menu głównego.
 <br />
 
-### Okno rozgrywki
+#### Okno rozgrywki
 
 ![](images/OknoGryPoziom1.jpg)
 <br />
