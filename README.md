@@ -9,7 +9,7 @@
 * [Elementy dodatkowe](#elementydodatkowe)
 * [Sterowanie](#sterowanie)
 
-<a name="wstep"/>
+<a name="wstep"></a>
 ## Wstęp
 
 Niniejsza instrukcja dotyczy gry Sokoban przygotowanej przez studentów czwartego semestru kierunku Elektronika na Wydziale Elektroniki i Technik Informacyjnych Politechniki Warszawskiej w ramach projektu z przedmiotu Programowanie Zdarzeniowe (PROZE). Autorami projektu są: Jakub Wrzosek oraz Hubert Jaworski.
