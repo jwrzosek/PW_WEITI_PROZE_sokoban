@@ -123,14 +123,21 @@ Użytkownik otrzymuje dostęp do 4 następujących elementów dodatkowych:
 ![](images/Teleport.jpg)
 <br />
 
-Grafika przedstwaiająca wygląd opcji teleportu. Na miejscu gracza pojawia się czerwony owal, którym możemy poruszać się po planszy. W momencie ustawienia czerwonego owalu na wybranym miejscu możemy przenieść tam owal błękitny.
+Powyższa grafika przedstwaia wygląd opcji teleportu. Na miejscu gracza pojawia się czerwony owal, którym możemy poruszać się po planszy. W momencie ustawienia czerwonego owalu na wybranym miejscu możemy przenieść tam owal błękitny.
 
 ## Sterowanie
 
+Podczas poruszania się po interfejsie w oknie menu głównego oraz oknie najlepszych wyników sterowanie odbywa się za pomocą myszki. Klikamy interesujące nas przyciski, w ten sposób poruszając się po aplikacji.
+<br />
 
-
-
-
+W oknie rozgrywki sterowanie przechodzi na klawiaturę. Poniżej znajduje się opis wykorzystywanych podczas rozgrywki klawiszy.
+1) strzałki (w górę, w dół, w prawo, w lewo) - służą do poruszania się graczem (błękitnym owalem),
+2) przycisk Escape - służy do powrotu do menu głównego,
+3) przycisk R – służy do wywołania opcji resetu,
+4) przycisk T – jednorazowo kliknięty służy do wejścia w stan teleportacji (na ekranie pojawia się czerwony owal, który umieszczamy w miejscu, w które chcemu się teleportować), drugie kliknięcie powoduje zamknięcie akcji teleportacji (tzn. przenosi gracza w wybrane miejsce – czerwony owal znika z plansz),
+5) przycisk Shift – w momencie, w którym gracz znajduje się przy skrzyni, użytkownik może wcisnąć przycisk Shift oraz strzałkę wskazującą w kierunku skrzyni, którą użytkownik chce usunąć.
+6) przycisk Ctrl – analogicznie jak w przypadku klawisza Shift – znajdując się przy skrzyni oraz klikając klawisz Ctrl oraz strzałkę w stronę, w którą chcemy cofnąć skrzynię uzyskamy porządany efekt.
+7) przycisk P – wywołuję opcję pauzy, tzn. animacja ruchu gracza przerywa się przy wciśnięciu klawisza P, przy kolejnym jego wciśnięciu animacja zostaje wznowiona.
 
 
 
