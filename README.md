@@ -1,7 +1,7 @@
 # Sokoban
 
 ## Spis treści
-* [Wstęp]
+* [Wstęp](#wstep)
 * [Informacje wstępne]
 * [Elementy aplikacji]
 * [Cel gry]
@@ -9,6 +9,7 @@
 * [Elementy dodatkowe]
 * [Sterowanie]
 
+<a name="wstep">
 ## Wstęp
 
 Niniejsza instrukcja dotyczy gry Sokoban przygotowanej przez studentów czwartego semestru kierunku Elektronika na Wydziale Elektroniki i Technik Informacyjnych Politechniki Warszawskiej w ramach projektu z przedmiotu Programowanie Zdarzeniowe (PROZE). Autorami projektu są: Jakub Wrzosek oraz Hubert Jaworski.
