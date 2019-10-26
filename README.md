@@ -18,7 +18,7 @@ W momencie ustawienia skrzyń na miejscach docelowych gracz przechodzi do kolejn
 
 ## Elementy wizualne aplikacji
 ### Okno główne aplikacji
-![alt text](./images/OknoGlowne.png)
+![alt text](images/OknoGlowne.png)
 
 
 
