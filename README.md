@@ -6,6 +6,8 @@ W kolejnych punktach zostaną przedstawione najważniejsze informacje na temat u
 
 ## Informacje wstępne
 Aplikacja została napisana w języku Java w wersji 8. Do jej uruchomienia niezbędne jest posiadanie na swoim komputerze zainstalowanego środowiska uruchomieniowego Javy (JRE) służącego do uruchomienia aplikacji .jar. W wypadku naszej aplikacji niezbędne jest posiadanie Java SE Runtime Enviroment 8.
+<br />
+
 Jeśli nie posiadamy niezbędnego środowiska uruchomieniowego, możemy pobrać je ze strony internetowej Oracle: http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
 
 ## Elementy aplikacji
@@ -60,14 +62,62 @@ Załóżmy, że podanie nicku zakończyło się sukcesem. Kolejnym krokiem jest 
 Po wciśnięciu strzałki po prawiej stronie od podświetlonego napisu „Medium” rozwinie się lista ze wszystkimi dostępnymi poziomami trudności. W przypadku kliknęcia opcji „Cancel” lub czerwonej ikonki z „iksem” nastąpi powrót do menu głównego.
 <br />
 
-![](images/ListraPoziomowTrudnosci.jpg)
+![](images/ListaPoziomowTrudnosci.jpg)
 <br />
 
 Po wybraniu poziomu trudności oraz kliknięciu „OK” przechodzimy do okna rozgrywki.
 <br />
 
+### Okno z najlepszymi wynikami
+
+![](images/OknoResults.jpg)
+<br />
+
+Jak widzimy okno z najlepszymi wynikami pokazuje nam trzy najlepsze wyniki uzyskane w przeszłości przez użykowników.
+W południowej części okna znajduje się przycisk „Powrót do Menu Głównego”, po wciśnięciu którego program przenosi nas spowrotem do menu głównego.
+<br />
+
+### Okno rozgrywki
+
+![](images/OknoGryPoziom1.jpg)
+<br />
+
+Na ekranie możemy zauważyć kilka różnych elementów. Zaczynając od góry mamy klika napisów przedstawiających informacje o rozgrywce. Wśród napisów możemy zauważyć swój nick, wybrany wcześniej poziom trudności, liczbę wykonanych ruchów oraz liczbę dostępnych elementów dodatkowych („mocy”) takich jak: reset poziomu, teleport, cofnięcie skrzyni oraz usunięcie skrzyni. O elementach dodatkowych można będzie przeczytać w dalszej części instrukcji.
+<br />
+
+Elementu najwazniejsze z punktu rozgrywki to ściany ograniczające miejsce, w którym toczy się rozgrywka (prostokąty koloru niebieskiego), miejsca docelowe, na których gracz musi umieścić skrzynie (prostokąty koloru żółtego), skrzynie, które gracz musi umieścić na miejscach docelowych (prostokąty koloru różowego) oraz samego gracza (owal koloru błękitnego).
+<br />
+
+W momencie umieszczenia skrzyni na miejscu docelowym następuje sygnalizacja tego zdarzenia poprzez zmianę koloru skrzyni na kolor zielony.
+<br />
+
+![](images/SkrzynianaFinishu.jpg)
+<br />
+
+Po zakończeniu rozgrywki (po spełnieniu wymagania, aby wszystkie skrzynia znalazły się na miejscach docelowych) naszym oczom ukazuje się okienko informujące nas o zwycięstwie oraz pokazujące ilość zdobytych przez nas punktów.
+<br />
+
+![](images/OknoZwyciestwa.jpg)
+<br />
+
+Po zatwierdzeniu przyciskiem „OK” lub czerwonej ikonki z „iksem” następuje przejście do menu głównego.
+W tym momenci możemy sprawdzić czy nasz wynik znalazł się wśród trzech najlepszych wybierając opcję „Najlesze wyniki” w menu głównym.
+<br />
+
+![](images/OknoWynikowPoUaktualnieniu.jpg)
+<br />
 
 
+## Elementy dodatkowe
+
+W grze przewidziane są 4 elementu dodatkowe do użytku gracza. Ich ilość jest zależna od każdego poziomu oraz od wybranego przez gracza poziomu trudności.
+<br />
+
+Użytkownik otrzymuje dostęp do 4 następujących elementów dodatkowych:
+1. reset – pozwala na powrót do początkowego stanu rozgrywki, tzn. wszystkie elementy rozgrwki ustawiane są spowrotem na miejsca początkowe.
+2. cofanie – pozwala na jednorazowe pociągnięcie skrzyni „do tyłu”.
+3. usuwanie – pozwala na usunięcie skrzyni z planszy, dzięki temu gracz ma do ustawienia n skrzyń na n+1 miejscach docelowych.
+4. teleport – pozwala na zmianę położenia gracza w wybrane miejsce na planszy bez naliczania dodatkowych ruchów/kroków.
 
 
 
