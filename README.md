@@ -16,3 +16,27 @@ Na rozgrywkę składają się następujące elementu: gracz, skrzynie, ściany o
 Celem gracza jest ustawienie skrzyń na miejscach docelowych, z tym faktym, iż gracz może poruszać paczki tylko w kierunkach poruszania się tj. w górę, w dół, w lewo i w prawo po terenie ograniczonym przez ściany.
 W momencie ustawienia skrzyń na miejscach docelowych gracz przechodzi do kolejnego poziomu. Po przejściu wszystkich poziomów gracz zwycięża oraz zostaje sklasyfikowany z możliwością znalezienia się w oknie z trzema najlepszymi wynikami.
 
+## Elementy wizualne aplikacji
+### okno główne aplikaji:
+![Algorithm schema](./images/OknoGlowne.jpg) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
