@@ -62,7 +62,7 @@ Załóżmy, że podanie nicku zakończyło się sukcesem. Kolejnym krokiem jest 
 Po wciśnięciu strzałki po prawiej stronie od podświetlonego napisu „Medium” rozwinie się lista ze wszystkimi dostępnymi poziomami trudności. W przypadku kliknęcia opcji „Cancel” lub czerwonej ikonki z „iksem” nastąpi powrót do menu głównego.
 <br />
 
-![](images/ListaPoziomowTrudnosci.jpg)
+![](images/ListaPoziomowTrudosci.jpg)
 <br />
 
 Po wybraniu poziomu trudności oraz kliknięciu „OK” przechodzimy do okna rozgrywki.
@@ -104,7 +104,7 @@ Po zatwierdzeniu przyciskiem „OK” lub czerwonej ikonki z „iksem” następ
 W tym momenci możemy sprawdzić czy nasz wynik znalazł się wśród trzech najlepszych wybierając opcję „Najlesze wyniki” w menu głównym.
 <br />
 
-![](images/OknoWynikowPoUaktualnieniu.jpg)
+![](images/OknoWynikowPoUaktualnienu.jpg)
 <br />
 
 
@@ -118,6 +118,14 @@ Użytkownik otrzymuje dostęp do 4 następujących elementów dodatkowych:
 2. cofanie – pozwala na jednorazowe pociągnięcie skrzyni „do tyłu”.
 3. usuwanie – pozwala na usunięcie skrzyni z planszy, dzięki temu gracz ma do ustawienia n skrzyń na n+1 miejscach docelowych.
 4. teleport – pozwala na zmianę położenia gracza w wybrane miejsce na planszy bez naliczania dodatkowych ruchów/kroków.
+<br />
+
+![](images/Teleport.jpg)
+<br />
+
+Grafika przedstwaiająca wygląd opcji teleportu. Na miejscu gracza pojawia się czerwony owal, którym możemy poruszać się po planszy. W momencie ustawienia czerwonego owalu na wybranym miejscu możemy przenieść tam owal błękitny.
+
+## Sterowanie
 
 
 
