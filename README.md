@@ -2,19 +2,20 @@
 
 ## Spis treści
 * [Wstęp](#wstep)
-* [Informacje wstępne]
-* [Elementy aplikacji]
-* [Cel gry]
-* [Elementy wizualne aplikacji]
-* [Elementy dodatkowe]
-* [Sterowanie]
+* [Informacje wstępne](#informacje)
+* [Elementy aplikacji](#elementy_aplikacji)
+* [Cel gry](#cel_gry)
+* [Elementy wizualne aplikacji](#elementy_wizualne_aplikacji)
+* [Elementy dodatkowe](#elementy_dodatkowe)
+* [Sterowanie](#sterowanie)
 
-<a name="wstep">
+<a name="wstep"/>
 ## Wstęp
 
 Niniejsza instrukcja dotyczy gry Sokoban przygotowanej przez studentów czwartego semestru kierunku Elektronika na Wydziale Elektroniki i Technik Informacyjnych Politechniki Warszawskiej w ramach projektu z przedmiotu Programowanie Zdarzeniowe (PROZE). Autorami projektu są: Jakub Wrzosek oraz Hubert Jaworski.
 W kolejnych punktach zostaną przedstawione najważniejsze informacje na temat użytkowania aplikacji.
 
+<a name="informacje"/>
 ## Informacje wstępne
 
 Aplikacja została napisana w języku Java w wersji 8. Do jej uruchomienia niezbędne jest posiadanie na swoim komputerze zainstalowanego środowiska uruchomieniowego Javy (JRE) służącego do uruchomienia aplikacji .jar. W wypadku naszej aplikacji niezbędne jest posiadanie Java SE Runtime Enviroment 8.
@@ -22,15 +23,19 @@ Aplikacja została napisana w języku Java w wersji 8. Do jej uruchomienia niezb
 
 Jeśli nie posiadamy niezbędnego środowiska uruchomieniowego, możemy pobrać je ze strony internetowej Oracle: http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
 
+<a name="elementy_aplikacji"/>
 ## Elementy aplikacji
+
 Aplikacja składa się z plików z kodem źródłowym programu, plików konfiguracyjnych zawierających elementy niezbędne do prawidłowego funkcjonowania programu (definicję poziomów) oraz z pliku uruchomieniowego z rozszerzeniem .jar.
 
+<a name="cel_gry"/>
 ## Cel gry
 
 Na rozgrywkę składają się następujące elementu: gracz, skrzynie, ściany oraz miejsca docelowe dla skrzyń.
 Celem gracza jest ustawienie skrzyń na miejscach docelowych, z tym faktym, iż gracz może poruszać paczki tylko w kierunkach poruszania się tj. w górę, w dół, w lewo i w prawo po terenie ograniczonym przez ściany.
 W momencie ustawienia skrzyń na miejscach docelowych gracz przechodzi do kolejnego poziomu. Po przejściu wszystkich poziomów gracz zwycięża oraz zostaje sklasyfikowany z możliwością znalezienia się w oknie z trzema najlepszymi wynikami.
 
+<a name="elementy_wizualne_aplikacji"/>
 ## Elementy wizualne aplikacji
 
 ### Okno główne aplikacji
@@ -121,7 +126,7 @@ W tym momenci możemy sprawdzić czy nasz wynik znalazł się wśród trzech naj
 ![](images/OknoWynikowPoUaktualnienu.jpg)
 <br />
 
-
+<a name="elementy_dodatkowe"/>
 ## Elementy dodatkowe
 
 W grze przewidziane są 4 elementu dodatkowe do użytku gracza. Ich ilość jest zależna od każdego poziomu oraz od wybranego przez gracza poziomu trudności.
@@ -139,6 +144,7 @@ Użytkownik otrzymuje dostęp do 4 następujących elementów dodatkowych:
 
 Powyższa grafika przedstwaia wygląd opcji teleportu. Na miejscu gracza pojawia się czerwony owal, którym możemy poruszać się po planszy. W momencie ustawienia czerwonego owalu na wybranym miejscu możemy przenieść tam owal błękitny.
 
+<a name="sterowanie"/>
 ## Sterowanie
 
 Podczas poruszania się po interfejsie w oknie menu głównego oraz oknie najlepszych wyników sterowanie odbywa się za pomocą myszki. Klikamy interesujące nas przyciski, w ten sposób poruszając się po aplikacji.
