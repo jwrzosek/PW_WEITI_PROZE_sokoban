@@ -3,10 +3,10 @@
 ## Spis treści
 * [Wstęp](#wstep)
 * [Informacje wstępne](#informacje)
-* [Elementy aplikacji](#elementy_aplikacji)
-* [Cel gry](#cel_gry)
-* [Elementy wizualne aplikacji](#elementy_wizualne_aplikacji)
-* [Elementy dodatkowe](#elementy_dodatkowe)
+* [Elementy aplikacji](#elementyaplikacji)
+* [Cel gry](#celgry)
+* [Elementy wizualne aplikacji](#elementywizualneaplikacji)
+* [Elementy dodatkowe](#elementydodatkowe)
 * [Sterowanie](#sterowanie)
 
 <a name="wstep"/>
@@ -23,19 +23,19 @@ Aplikacja została napisana w języku Java w wersji 8. Do jej uruchomienia niezb
 
 Jeśli nie posiadamy niezbędnego środowiska uruchomieniowego, możemy pobrać je ze strony internetowej Oracle: http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
 
-<a name="elementy_aplikacji"/>
+<a name="elementyaplikacji"/>
 ## Elementy aplikacji
 
 Aplikacja składa się z plików z kodem źródłowym programu, plików konfiguracyjnych zawierających elementy niezbędne do prawidłowego funkcjonowania programu (definicję poziomów) oraz z pliku uruchomieniowego z rozszerzeniem .jar.
 
-<a name="cel_gry"/>
+<a name="celgry"/>
 ## Cel gry
 
 Na rozgrywkę składają się następujące elementu: gracz, skrzynie, ściany oraz miejsca docelowe dla skrzyń.
 Celem gracza jest ustawienie skrzyń na miejscach docelowych, z tym faktym, iż gracz może poruszać paczki tylko w kierunkach poruszania się tj. w górę, w dół, w lewo i w prawo po terenie ograniczonym przez ściany.
 W momencie ustawienia skrzyń na miejscach docelowych gracz przechodzi do kolejnego poziomu. Po przejściu wszystkich poziomów gracz zwycięża oraz zostaje sklasyfikowany z możliwością znalezienia się w oknie z trzema najlepszymi wynikami.
 
-<a name="elementy_wizualne_aplikacji"/>
+<a name="elementywizualneaplikacji"/>
 ## Elementy wizualne aplikacji
 
 ### Okno główne aplikacji
@@ -126,7 +126,7 @@ W tym momenci możemy sprawdzić czy nasz wynik znalazł się wśród trzech naj
 ![](images/OknoWynikowPoUaktualnienu.jpg)
 <br />
 
-<a name="elementy_dodatkowe"/>
+<a name="elementydodatkowe"/>
 ## Elementy dodatkowe
 
 W grze przewidziane są 4 elementu dodatkowe do użytku gracza. Ich ilość jest zależna od każdego poziomu oraz od wybranego przez gracza poziomu trudności.
