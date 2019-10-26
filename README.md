@@ -17,8 +17,8 @@ Celem gracza jest ustawienie skrzyń na miejscach docelowych, z tym faktym, iż 
 W momencie ustawienia skrzyń na miejscach docelowych gracz przechodzi do kolejnego poziomu. Po przejściu wszystkich poziomów gracz zwycięża oraz zostaje sklasyfikowany z możliwością znalezienia się w oknie z trzema najlepszymi wynikami.
 
 ## Elementy wizualne aplikacji
-### okno główne aplikaji:
-![tekst alternatywny](./images/OknoGlowne.jpg) 
+### Okno główne aplikacji
+![tekst alternatywny](./images/OknoGlowne.png) 
 
 
 
